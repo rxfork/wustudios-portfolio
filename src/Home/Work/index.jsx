@@ -18,11 +18,11 @@ export const CASES = [
     image: obvioImg,
   },
   {
-    title: 'Pureskill.gg',
+    title: 'PureSkill.gg',
     description:
-      "AI powered e-sports coach. With E-sports taking off, and a current market size of $1.4 billion, projected to grow to $5 billion by 2029, machine-learning AI coaches have started appearing to help players take their game to the next level. We were tapped to help create Pureskill's web application frontend from pixel perfect high fidelity designs.",
+      "AI powered esports coach. With esports taking off, and a current market size of $1.4 billion, projected to grow to $5 billion by 2029, machine-learning AI coaches have started appearing to help players take their game to the next level. We were tapped to help create PureSkill.gg's web application frontend from pixel perfect high fidelity designs.",
     url: 'https://pureskill.gg/',
-    image: pureskillImg,
+    image: pureskillggImg,
   },
   {
     title: 'HabitApp',
